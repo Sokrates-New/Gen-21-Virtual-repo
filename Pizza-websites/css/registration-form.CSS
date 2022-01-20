@@ -1,0 +1,127 @@
+
+body{
+	background-color: #d6f2ff;
+}
+form{
+	margin-left: 30%;
+	font-family: "Roboto", sans-serif;
+}
+.box1{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-top: 10px solid rgb(238, 255, 0);
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+}
+input{
+	border: none;
+	border-bottom: solid 2px lightgrey;
+	letter-spacing: 1px;
+}
+.box2{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+}
+	.box3{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;}
+
+.box4{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+}
+
+
+.box5{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+}
+
+
+.box6{
+	background-color: white;
+	width: 60%;
+	margin-left: 10px;
+	padding: 15px;
+	border-radius: 10px;
+	margin-top: 10px;
+	letter-spacing: 1px;
+}
+
+
+
+
+#submit{
+	background-color: lightblue;
+	border-radius: 5px;
+	width: 70px;
+	height: 5vh;
+	letter-spacing: 1px;
+
+
+}
+.navbar-default {
+    background-color: #a94442;
+     border-color: none; 
+    color: white;
+}
+
+.footer{
+    background-color: #a94442;
+    padding:1.5rem 0;
+    color: white;
+}
+
+.navbar-home .navbar-nav>li>a {
+    color: #f5f5f5;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fffcfc;
+}
+.footer-left-text{
+    margin: 0 0 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: center;
+}
+.col-md-6 {
+    width: 50%;
+    padding-left: 400px;
+}
+.footer-left-text {
+    margin: 0 0 10px;
+    margin-top: -18px;
+    margin-left: 0px;
+    text-align: center;
+    padding-top: 15px;
+}
+body {
+    background-color: #ffe1d6;
+}

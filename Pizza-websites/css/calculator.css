@@ -1,0 +1,21 @@
+.col-md-14{
+    background-color:#28c8f0;
+    border: solid 2px black ;
+    text-align: right;
+}   
+.col-md-6{   
+    background-color:#eeeaf1;
+    border: 2px  black solid;
+}
+.col-md-3{
+    background-color:#f6f5f8;
+    border: 2px black  solid;
+}
+.col1{
+    background-color:rgb(0, 255, 170);
+    border: 2px  black solid;
+}
+body{
+    width:100%;
+    text-align: center;
+}
